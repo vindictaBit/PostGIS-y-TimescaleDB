@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+psycopg2
+sqlalchemy
+geoalchemy2
+geopandas
+shapely
+folium
+plotly
+osmnx
+networkx
+geopy
