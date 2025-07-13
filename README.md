@@ -6,7 +6,7 @@ Simulación y análisis de tráfico de buses en Arequipa usando Machine Learning
 
 1. **PostgreSQL 12+** con extensiones:
    - PostGIS
-   - TimescaleDB (opcional)
+   - TimescaleDB
 
 2. **Python 3.8+** con entorno virtual
 
