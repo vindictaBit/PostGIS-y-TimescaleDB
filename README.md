@@ -60,14 +60,14 @@ python visualizador_realista.py        # Mapas interactivos
 ```
 
 **Características:**
-- Rutas reales usando OpenStreetMap
+- Rutas 'reales' usando OpenStreetMap (aunque no funciona bien)
 - 8 puntos de interés en Arequipa
 - Mapas interactivos (Folium)
 - Modelo ML con más features
-- Error mejorado y velocidades realistas (~15.7 km/h)
+- Error mejorado y velocidades (~15.7 km/h)
 
 ## Archivos Generados
 - `datos_buses_aqp.csv` - Dataset básico
-- `datos_buses_aqp_realistas.csv` - Dataset realista
+- `datos_buses_aqp_realistas.csv` - Dataset más completo
 - `mapa_buses_*.html` - Mapas interactivos
 - `dashboard_velocidades.html` - Dashboard analítico
